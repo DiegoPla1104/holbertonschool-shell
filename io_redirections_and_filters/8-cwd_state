@@ -1,2 +1,2 @@
 #!/bin/bash
-cd . | ls -la >> cd .
+cd . | ls -la >> cd ./ls_cwd_content
