@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -type d | cut -c 3-
+find . -type d | wc -l
