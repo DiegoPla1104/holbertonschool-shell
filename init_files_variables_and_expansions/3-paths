@@ -1,2 +1,2 @@
 #!/bin/bash
-tr \n /  | wc -l --files0-from=PATH 
+tr \n / y | wc -l --y-from=PATH 
