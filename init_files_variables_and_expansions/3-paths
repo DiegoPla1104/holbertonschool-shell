@@ -1,2 +1,2 @@
 #!/bin/bash
-count=0 for dir in $(echo "$PATH" | tr ":" "\n" | do ((count++)) | echo "$count"
+count=0 for dir in $(echo "$PATH" | tr ":" "\n" do ((count++)) | echo "$count"
